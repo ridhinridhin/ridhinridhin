@@ -51,7 +51,7 @@
 # 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=ridhinridhin&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=ridhinridhin&theme=tokyonight&hide_border=true&background=0d1117&stroke=FF0033&ring=FF0033&fire=FF6B35&currStreakLabel=8b8b8b&sideLabels=8b8b8b&dates=8b8b8b" alt="GitHub Streak" />
 </p>
 
 ---
