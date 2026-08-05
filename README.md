@@ -41,9 +41,10 @@
 ---
 ## 📈 Coding Activity
 
+
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ridhinridhin&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ridhinridhin&theme=tokyonight&utcOffset=5.5"/>
+  <img src="https://ghstats.dev/api/card?username=ridhinridhin&theme=tokyonight"/>
 </p>
 
 ---
@@ -51,7 +52,7 @@
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ridhinridhin&theme=tokyonight&hide_border=true&background=0d1117&stroke=FF0033&ring=FF0033&fire=FF6B35&currStreakLabel=8b8b8b&sideLabels=8b8b8b&dates=8b8b8b" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ridhinridhin&theme=github-dark" alt="GitHub Streak"/>
 </p>
 
 ---
