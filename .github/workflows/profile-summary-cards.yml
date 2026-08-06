@@ -17,7 +17,7 @@ jobs:
 
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          GITHUB_TOKEN: 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
+          GITHUB_TOKEN: ${{ secrets.PROFILE_SUMMARY_CARD_TOKEN }}
         with:
           USERNAME: ridhinridhin
           BRANCH_NAME: main
