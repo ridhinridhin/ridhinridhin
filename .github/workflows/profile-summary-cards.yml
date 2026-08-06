@@ -1,0 +1,25 @@
+name: GitHub Profile Summary Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: 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
+        with:
+          USERNAME: ridhinridhin
+          BRANCH_NAME: main
+          THEME: tokyonight
+          UTC_OFFSET: 5.5
